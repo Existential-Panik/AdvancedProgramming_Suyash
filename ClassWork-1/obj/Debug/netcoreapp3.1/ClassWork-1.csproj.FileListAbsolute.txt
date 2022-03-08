@@ -1,0 +1,14 @@
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.exe
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.deps.json
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.runtimeconfig.json
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.dll
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\bin\Debug\netcoreapp3.1\ClassWork-1.pdb
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.dll
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.pdb
+C:\Users\Legion\source\repos\ClassWork-1\ClassWork-1\obj\Debug\netcoreapp3.1\ClassWork-1.genruntimeconfig.cache
